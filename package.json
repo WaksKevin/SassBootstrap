@@ -1,0 +1,19 @@
+{
+  "name": "sassbootstrap",
+  "version": "1.0.0",
+  "description": "Simple Bootstrap Customization using Sass",
+  "scripts": {
+    "watch": "sass --watch ./static/scss/custom.scss ./static/css/custom.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaksKevin/SassBootstrap.git"
+  },
+  "keywords": ["sass", "bootstrap", "css", "web development", "customization"],
+  "author": "Kevin Wakhisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaksKevin/SassBootstrap/issues"
+  },
+  "homepage": "https://github.com/WaksKevin/SassBootstrap#readme"
+}
